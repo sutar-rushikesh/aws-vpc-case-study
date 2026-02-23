@@ -49,9 +49,11 @@ You are assigned as a **Cloud / DevOps Engineer** to design and implement this a
 Rushikesh Sutar\
 DevOps Engineer
 
-Focused on Production-Ready Git Practices
+Empowering learners in Linux, DevOps, Cloud & Automation 🚀
 
 ------------------------------------------------------------------------
 
 ⭐ If this repository helped you, consider giving it a star.
+
+
 
