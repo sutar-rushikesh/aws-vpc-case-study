@@ -42,6 +42,16 @@ You are assigned as a **Cloud / DevOps Engineer** to design and implement this a
 
 > ⚠️ Do not refer to the solution until you complete the lab.
 
----
+------------------------------------------------------------------------
 
-**NavOps Academy**
+## 👨‍💻 Author
+
+Rushikesh Sutar\
+DevOps Engineer
+
+Focused on Production-Ready Git Practices
+
+------------------------------------------------------------------------
+
+⭐ If this repository helped you, consider giving it a star.
+
