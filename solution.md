@@ -53,4 +53,15 @@
 ## ✅ Outcome
 A secure AWS VPC architecture with controlled internet access.
 
-**NavOps Academy**
+------------------------------------------------------------------------
+
+## 👨‍💻 Author
+
+Rushikesh Sutar\
+DevOps Engineer
+
+Focused on Production-Ready Git Practices
+
+------------------------------------------------------------------------
+
+⭐ If this repository helped you, consider giving it a star.
